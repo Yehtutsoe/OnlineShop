@@ -1,18 +1,28 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# Build folders
+bin/
+obj/
 
-# Other files and folders
-.settings/
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# Visual Studio cache
+.vs/
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# Logs
+*.log
+
+# Publish outputs
+*.publish/
+
+# EF Core Migrations snapshot
+Migrations/
+
+# Database files
+*.mdf
+*.ldf
+
+# Secrets (don’t push your connection strings)
+appsettings.Development.json
