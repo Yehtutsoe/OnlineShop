@@ -1,12 +1,109 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\C#\\OnlineShop\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F67F9130-A312-41B5-98E8-B282F9318AC5}|OnlineShop\\OnlineShop.csproj|d:\\c#\\onlineshop\\onlineshop\\models\\entities\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67F9130-A312-41B5-98E8-B282F9318AC5}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\models\\entities\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67F9130-A312-41B5-98E8-B282F9318AC5}|OnlineShop\\OnlineShop.csproj|d:\\c#\\onlineshop\\onlineshop\\models\\entities\\categoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67F9130-A312-41B5-98E8-B282F9318AC5}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\models\\entities\\categoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67F9130-A312-41B5-98E8-B282F9318AC5}|OnlineShop\\OnlineShop.csproj|d:\\c#\\onlineshop\\onlineshop\\models\\entities\\vendorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67F9130-A312-41B5-98E8-B282F9318AC5}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\models\\entities\\vendorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67F9130-A312-41B5-98E8-B282F9318AC5}|OnlineShop\\OnlineShop.csproj|d:\\c#\\onlineshop\\onlineshop\\models\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67F9130-A312-41B5-98E8-B282F9318AC5}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\models\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67F9130-A312-41B5-98E8-B282F9318AC5}|OnlineShop\\OnlineShop.csproj|d:\\c#\\onlineshop\\onlineshop\\models\\entities\\baseenittiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67F9130-A312-41B5-98E8-B282F9318AC5}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\models\\entities\\baseenittiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryEntity.cs",
+              "DocumentMoniker": "D:\\C#\\OnlineShop\\OnlineShop\\Models\\Entities\\CategoryEntity.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\Models\\Entities\\CategoryEntity.cs",
+              "ToolTip": "D:\\C#\\OnlineShop\\OnlineShop\\Models\\Entities\\CategoryEntity.cs",
+              "RelativeToolTip": "OnlineShop\\Models\\Entities\\CategoryEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:19:17.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductEntity.cs",
+              "DocumentMoniker": "D:\\C#\\OnlineShop\\OnlineShop\\Models\\Entities\\ProductEntity.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\Models\\Entities\\ProductEntity.cs",
+              "ToolTip": "D:\\C#\\OnlineShop\\OnlineShop\\Models\\Entities\\ProductEntity.cs",
+              "RelativeToolTip": "OnlineShop\\Models\\Entities\\ProductEntity.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:13:27.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VendorEntity.cs",
+              "DocumentMoniker": "D:\\C#\\OnlineShop\\OnlineShop\\Models\\Entities\\VendorEntity.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\Models\\Entities\\VendorEntity.cs",
+              "ToolTip": "D:\\C#\\OnlineShop\\OnlineShop\\Models\\Entities\\VendorEntity.cs",
+              "RelativeToolTip": "OnlineShop\\Models\\Entities\\VendorEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:09:11.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "D:\\C#\\OnlineShop\\OnlineShop\\Models\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\Models\\Entities\\UserEntity.cs",
+              "ToolTip": "D:\\C#\\OnlineShop\\OnlineShop\\Models\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "OnlineShop\\Models\\Entities\\UserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:04:26.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEnittiy.cs",
+              "DocumentMoniker": "D:\\C#\\OnlineShop\\OnlineShop\\Models\\Entities\\BaseEnittiy.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\Models\\Entities\\BaseEnittiy.cs",
+              "ToolTip": "D:\\C#\\OnlineShop\\OnlineShop\\Models\\Entities\\BaseEnittiy.cs",
+              "RelativeToolTip": "OnlineShop\\Models\\Entities\\BaseEnittiy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T13:58:22.726Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

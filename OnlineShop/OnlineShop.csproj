@@ -7,11 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Data\DAO\" />
     <Folder Include="Data\Interfaces\" />
     <Folder Include="Data\Services\" />
     <Folder Include="Data\Repositories\" />
-    <Folder Include="Models\Entities\" />
     <Folder Include="Models\ViewModel\" />
     <Folder Include="UnitOfWork\" />
   </ItemGroup>
