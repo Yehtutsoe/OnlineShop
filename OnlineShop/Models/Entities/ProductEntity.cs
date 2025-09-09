@@ -8,14 +8,18 @@ namespace OnlineShop.Models.Entities
         public string Name { get; set; }
         public string Description { get; set; }
         public Decimal Price { get; set; }
-        public int Stock { get; set; }
+        public int StockQuantity { get; set; }
         public string ImageUrl { get; set; }
-        
+        [ForeignKey("Category")]
         public Guid CategoryId { get; set; }
         public CategoryEntity Category { get; set; }
 
         // VendorId nullable (Single Vendor → Multi-Vendor ready)
+        [ForeignKey("Vendor")]
         public Guid? VendorId { get; set; }
         public VendorEntity Vendor { get; set; }
+
+        public ICollection<OrderItemEntity> OrderItems { get; set; }
+        public ICollection<CartItemEntity> CartItems { get; set; }
     }
 }
