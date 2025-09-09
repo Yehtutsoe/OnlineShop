@@ -11,12 +11,12 @@ namespace OnlineShop.Models.Entities
         public int StockQuantity { get; set; }
         public string ImageUrl { get; set; }
         [ForeignKey("Category")]
-        public Guid CategoryId { get; set; }
+        public int CategoryId { get; set; }
         public CategoryEntity Category { get; set; }
 
         // VendorId nullable (Single Vendor → Multi-Vendor ready)
         [ForeignKey("Vendor")]
-        public Guid? VendorId { get; set; }
+        public int? VendorId { get; set; }
         public VendorEntity Vendor { get; set; }
 
         public ICollection<OrderItemEntity> OrderItems { get; set; }
